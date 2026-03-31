@@ -4,6 +4,7 @@
   "scripts": {
     "dev": "nodemon index.js",
     "start": "node index.js",
+    "build": "echo 'No build required'",
     "test": "jest --coverage"
   },
   "dependencies": {
